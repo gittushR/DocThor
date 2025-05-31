@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# Gradio app launch logs and session files (just in case)
+gradio_cached_examples/
+gradio_live.json
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# PyCharm settings (optional)
+.idea/
+
+# Python distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Test / coverage
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variable files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Compiled shared objects (C extensions)
+*.so
+
+# Generated audio/video/image files (if any)
+*.wav
+*.mp3
+*.mp4
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*~
+
+# pyinstaller artifacts
+output/
+*.exe
