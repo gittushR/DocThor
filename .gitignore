@@ -62,7 +62,6 @@ pip-delete-this-directory.txt
 *.mp3
 *.mp4
 *.webm
-*.png
 *.jpg
 *.jpeg
 *.gif
