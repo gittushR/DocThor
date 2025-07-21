@@ -15,6 +15,11 @@ DocThor is an AI-powered medical assistant application that enables users to rec
 
 ---
 
+## 🎥 Demo
+https://github.com/user-attachments/assets/e77a6c4d-c814-488c-9ab6-02cc52d0cf50
+
+---
+
 ## 🧱 Tech Stack
 
 - Python
