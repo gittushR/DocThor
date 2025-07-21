@@ -32,6 +32,12 @@ https://github.com/user-attachments/assets/e77a6c4d-c814-488c-9ab6-02cc52d0cf50
 
 ---
 
+## 🧭 Workflow Diagram
+
+![Workflow](Docthor_Workflow.drawio.png)
+
+---
+
 ## 🧑‍💻 Setup Instructions
 
 ### 1. Clone the Repository
@@ -77,12 +83,6 @@ This will open a browser window with the Gradio interface, where you can:
 - Record your voice
 - Upload an image if needed
 - Hear the AI doctor's diagnosis in voice form
-
----
-
-## 🧭 Workflow Diagram
-
-![Workflow](Docthor_Workflow.drawio.png)
 
 ---
 
